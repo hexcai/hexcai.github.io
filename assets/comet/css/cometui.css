@@ -64,6 +64,12 @@ disp_dtm {
    color: black;
 }
 
+disp_dtm-alt {
+  font-family: Determination;
+  font-size: 15px;
+  color: black;
+}
+
 disp_ignm {
   font-family: iGoNerdMono;
   color: black;
@@ -79,6 +85,14 @@ disp_ignm {
   border-radius: 5%;
 }
 
+.smallshit {
+  width: 187px;
+  height: 113px;
+}
+
+.altvatar {
+  border-radius: 7%;
+}
 /* Text Spacing (line-height) */
 p.sc {
   line-height: 0.7;
